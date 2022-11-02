@@ -1,6 +1,6 @@
 Opa!! eu sou o Leonardo Zambrana
 
-- 🔭 <FrontEnd Developer>
+- 🔭 FrontEnd Developer
 - 🌱 Angular | Tailwind | Typescript | C | Java |
 <div align="center">
   <a href="https://github.com/leozambrana">
