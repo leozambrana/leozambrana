@@ -15,6 +15,7 @@ Opa!! eu sou o Leonardo Zambrana
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Leo-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/CyrisXD/CyrisXD/master/assets/TailwindCSS.png">
   <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/topics/docker/docker.png">
                                                                                                                                                      
 </div>
 <br>
