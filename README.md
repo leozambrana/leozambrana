@@ -1,6 +1,6 @@
 Opa!! eu sou o Leonardo Zambrana
 
-- 🔭 FrontEnd Developer
+- 🔭 Fullstack Developer
 - 🌱 Angular | Tailwind | Typescript | Node.JS | Nest.js | React.js | ReactNative |  
 <div align="center">
   <a href="https://github.com/leozambrana">
