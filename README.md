@@ -1,7 +1,7 @@
 Opa!! eu sou o Leonardo Zambrana
 
 - 🔭 Fullstack Developer
-- 🌱 Angular | Tailwind | Typescript | Node.JS | Nest.js | React.js | ReactNative |  
+- 🌱 React.js | Tailwind | Typescript | Node.JS | Nest.js | ReactNative |  
 <div align="center">
   <a href="https://github.com/leozambrana">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leozambrana&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
